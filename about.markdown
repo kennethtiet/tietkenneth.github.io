@@ -6,10 +6,16 @@ permalink: /about/
 
 Hi there! My name is Kenneth! I am 24 years old and I am from Monterey Park, California.
 
-# Education
+# Education 
+![alt text](image-1.png)
+
 I graduated with a B.S. in Computer Science from the University of Southern California. Fight On!
 
 # Profession (Or lack thereof)
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
 I currently do a handful of things -- computer science robotics research, math and ELA tutoring, teaching robotics.
 
 I'm looking into getting a full-time position in engineering or in tech (IT, Systems, Software Development, etc).
@@ -19,6 +25,8 @@ I also recently got certified in CPR And First Aid, as well as, Lifeguard Traini
 I've also applied to be a teacher's aide for the Fullerton School District, am waiting to hear back from the City of Los Angeles's Systems Analyst Qualifications Exam, and a numerous amount of companies that I've applied to (~600 applications).
 
 # Hobbies
+![Sailor 1911](IMG_5152.jpeg)
+
 I enjoy working out, socializing, reading, and journaling. I used to restore vintage fountain pens, but now I'm just use them. My daily is a Sailor 1911 Pro (F) and I write daily on a Leuchtturm 1917 dotted A5 notebook.
 
 # Reading List
