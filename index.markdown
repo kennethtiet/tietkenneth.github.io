@@ -5,5 +5,6 @@
 layout: home
 ---
 
+![alt text](image.png)
 
 What the fuck is supposed to go here
