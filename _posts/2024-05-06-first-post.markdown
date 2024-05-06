@@ -12,4 +12,4 @@ Next things:
 -Add resume button on menu bar
 -Add Projects button on menu Bar
   Not sure if each project should just be a blog post or have its own separate page
-
+-I should also look into the other themes and how to edit this blog (Minima?)
